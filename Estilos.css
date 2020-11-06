@@ -1,0 +1,42 @@
+#contenedor{width:1200px;background-color:#F3F3F4;margin-right: auto;margin-left: auto;}
+#pie{height: 50px;width: 95%x;}
+#hoja-1{height: 878px; width:75%;}
+#hoja-2{height: 878px; width:75%;}
+#hoja-3{height: 260px; width:75%;}
+#hoja-4{height: 260px; width:75%;}
+#hoja-5{height: 260px; width:75%;}
+#hoja-6{height: 260px; width:75%;}
+#hoja-7{height: 1148px; width:75%;}
+#hoja-8{height: 631px; width:75%;}
+#hoja-9{height: 2000px; width: 800px;}
+#hoja-10{height: 793px; width:75%;}
+#hoja-11{height: 1284px; width:75%;}
+#hoja-12{height: 1118px; width:75%;}
+#hoja-13{height: 1111px; width:75%;}
+#hoja-14{height: 1135px; width:75%;}
+#hoja-15{height: 1135px; width:75%;}
+#hoja-16{height: 1141px; width:75%;}
+#hoja-17{height: 830px; width:75%;}
+#hoja-18{height: 1132px; width:75%;}
+#hoja-19{height: 1074px; width:75%;}
+#hoja-20{height: 1104px; width:75%;}
+#hoja-21{height: 125px; width:75%;}
+#hoja-22{height: 1394px; width:75%;}
+#hoja-23{height: 1142px; width:75%;}
+#hoja-24{height: 1141px; width:75%;}
+#hoja-25{height: 1346px; width:75%;}
+#hoja-26{height: 1148px; width:75%;}
+#hoja-27{height: 600px; width:75%;}
+#hoja-28{height: 1252px; width:75%;}
+#hoja-29{height: 981px; width:75%;}
+#hoja-30{height: 318px; width:75%;}
+.centrar{text-align: center;}
+.imagen{width: 12.33%;float: left;border: black 1px solid;}
+.derecha{margin-left: 50px;}
+.linea{height: 5px;width: 900x;}
+.imgprincipal{height: 480px;width: 550px;}
+body{background-image:url('fondo.jpg');}
+h1{font-family: Tahoma, Geneva, sans-serif;font-size: 36px;color: #1B7618;}
+h2{font-family: Arial, Helvetica, sans-serif;font-size: 24px;color: #9C00B8;}
+img{width: 100%;height: 100px;}
+footer{text-align: center;clear: both;}
